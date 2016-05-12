@@ -6,6 +6,10 @@ public class s09 {
 
     private static int number = 1000;
 
+    /**
+     * Method for calculate equal numbers until 1000
+     * @return Assertion Error
+     */
     public String run(){
         for (int i = 1; i < number; i++){
             for (int j = i + 1; j < number; j++){
@@ -17,5 +21,7 @@ public class s09 {
         }
         throw new AssertionError("Not found");
     }
+
+
 
 }

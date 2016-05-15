@@ -1,5 +1,5 @@
 /**
- * For instance we need find prime numbers
+ * For instance we need find prime numbers then 
  */
 public class s10 {
 

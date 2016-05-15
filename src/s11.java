@@ -1,6 +1,4 @@
-/**
- * Created by Electron on 15.05.2016.
- */
+
 public class s11 {
 
     public static void main (String[] args){

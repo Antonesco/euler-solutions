@@ -17,6 +17,11 @@ public class s07 {
         }
     }
 
+    /**
+     * Method for searching for prime numbers
+     * @param num
+     * @return
+     */
     public static boolean isPrime(int num){
         if (num < 2) return false;
         if (num == 2) return true;

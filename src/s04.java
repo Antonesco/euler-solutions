@@ -2,6 +2,10 @@
  * Created by Electron on 08.05.2016.
  */
 public class s04 {
+    
+/*
+  I already have forked this cod
+*/
 /*
     public static void main (String[] args){
         System.out.println(new s04().start());
